@@ -1,0 +1,15 @@
+*{
+    font-family: 'Varela Round', sans-serif; 
+}
+
+body{
+    background-color: #D09AC1;
+
+}
+
+audio{
+    display:flex;
+    justify-content: center;
+    margin: 40px;
+    margin-top: 20px;
+}
