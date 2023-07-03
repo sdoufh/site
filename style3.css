@@ -13,3 +13,9 @@ audio{
     margin: 40px;
     margin-top: 20px;
 }
+.box{
+    background-color: #9D648D;
+    padding: 7px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
